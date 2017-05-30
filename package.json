@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/costel-petrescu/starwars-names.git"
+    "url": "git+https://github.com/costel-petrescu/starwar-names.git"
   },
   "keywords": [
     "random",
@@ -18,9 +18,9 @@
   "author": "Costel Pertrescu <costel.petrescu12@gmail.com> (http://costel-petrescu.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/costel-petrescu/starwars-names/issues"
+    "url": "https://github.com/costel-petrescu/starwar-names/issues"
   },
-  "homepage": "https://github.com/costel-petrescu/starwars-names#readme",
+  "homepage": "https://github.com/costel-petrescu/starwar-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   }
